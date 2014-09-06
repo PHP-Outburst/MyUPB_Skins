@@ -1,4 +1,4 @@
 MyUpb-Skins
 ===========
 
-The Skinfolder for My Ultimate PHP Board 
+The Skins for My Ultimate PHP Board 
